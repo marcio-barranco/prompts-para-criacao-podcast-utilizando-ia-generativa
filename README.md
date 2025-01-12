@@ -15,4 +15,11 @@ O objeto do projeto é utilizar IA generativa para:
 
 - ChatGPT
 - DALL-E
+- ElevenLabs
+
+## Conteúdo deste repositório
+
+- Prompst utilizados no ChatGPT, para gerar o título e o roteiro de um episódio do podcast
+- Imagem gerada pelo DALL-E, para ser a capa do podcast
+- Áudio gerado pelo ElevenLabs, narrando o episódio do podcast
   
