@@ -89,3 +89,15 @@ Mas aqui vai o pulo do gato: enquanto houver demanda por sistemas legados e plat
 E aí, curtiu o papo de hoje? Se você ainda tá decidindo qual fio seguir nesse universo do back-end, o PHP pode ser uma ótima porta de entrada, especialmente pra quem quer começar rápido e sem complicação. Então é isso, pessoal! Eu sou Márcio e esse foi a Caverna de Zion da semana. Até a próxima e lembre-se: a escolha do código é sua, mas o sistema sempre pode surpreender. Valeu!
 
 Pronto para o próximo episódio?
+
+## Criação da Capa do Podcast
+
+**Você disse:**
+
+Crie uma imagem em formato 1:1, para ser a capa do nosso podcast. Essa imagem deve remeter-se a franquia Matriz, com aquela famosa chuva verde de caracteres, e também fazer referência ao título do nosso podcast: "A Caverna de Zion".
+
+**O ChatGPT disse:**
+
+ChatGPT
+
+Aqui está a capa do podcast "A Caverna de Zion". Espero que ela capte o clima inspirado na franquia Matrix e o mistério do mundo do back-end. Se precisar de ajustes ou outra abordagem, é só avisar!
